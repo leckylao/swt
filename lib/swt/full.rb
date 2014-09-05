@@ -68,6 +68,7 @@ module Swt
 
   module Graphics
     import org.eclipse.swt.graphics.Color
+    import org.eclipse.swt.graphics.Cursor
     import org.eclipse.swt.graphics.Device
     import org.eclipse.swt.graphics.Font
     import org.eclipse.swt.graphics.GC
